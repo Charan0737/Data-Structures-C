@@ -22,3 +22,9 @@ Use any C compiler like `gcc` to compile and run the programs. Example:
 gcc stacks/stack_array.c -o stack
 ./stack
 ```
+## 🔗 Author
+
+[Charan-Mugada](https://github.com/Charan-Mugada)  
+Student @ Raghu Engineering College  
+Learning C, DSA, Java, Python, Web Technologies 
+
